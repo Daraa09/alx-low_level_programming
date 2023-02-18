@@ -11,8 +11,6 @@ int main(void)
 	int n, m;
 
 	for (m = 49; m <= 57; m++)
-
-
 	{
 		if (m > n)
 		{
